@@ -3,7 +3,7 @@
 - I am currently a junior at ODU working towards my Bachelor's degree in computer science and likely to pursue a Master's as well.
 - My favorite class this semester is linear algebra.
 - I'm very interested in learning how to make websites because I would like to make some for my friends looking to make their own businesses.
-- Ask me about bodybuilding, One Piece, Overwatch, or Valorant.
+- Ask me about bodybuilding and One Piece!
 
 
 <!--
