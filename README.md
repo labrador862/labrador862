@@ -1,8 +1,8 @@
 ## Hello everyone 
 
-- I am currently a junior at ODU working towards my Bachelor's degree in computer science and likely to pursue a Master's as well.
-- My favorite class this semester is linear algebra.
-- I'm very interested in learning how to make websites because I would like to make some for my friends looking to make their own businesses.
+- I am currently a junior at ODU majoring in Computer Science and minoring in Applied Mathematics.
+- My favorite class this semester is data structures and algorithms.
+- I really enjoy making things.
 - Ask me about bodybuilding and One Piece!
 
 
