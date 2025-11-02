@@ -1,9 +1,6 @@
 ## Hello everyone 
 
 - I am currently a junior at ODU majoring in Computer Science and minoring in Applied Mathematics.
-- My favorite class this semester is data structures and algorithms.
-- I really enjoy making things.
-- Ask me about bodybuilding and One Piece!
 
 
 <!--
