@@ -1,6 +1,6 @@
 ## Hello everyone 
 
-- I am currently a junior at ODU majoring in Computer Science and minoring in Applied Mathematics.
+- I am currently a senior at ODU majoring in Computer Science and minoring in Applied Mathematics.
 
 
 <!--
